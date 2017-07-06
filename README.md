@@ -33,3 +33,4 @@ The script contains internal detailed documentation explaining all the steps for
 - a support for executing specific processes under specific user ids
 - a rewrite of the file replacement feature which works but could be more elegant and could avoid using /tmp
 - more constants to permit an easier behavior edition on some features
+- alternative to flush-truncate with a tail
