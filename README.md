@@ -26,3 +26,8 @@
 - handles arguments on `docker run` so that you can start any other entrypoint at any time (eg: to start a shell)
 
 The script contains internal detailed documentation explaining all the steps for exploiting the features.
+
+TODO:
+
+- a rewrite of the file replacement feature which works but could be more elegant
+- a support for executing specific processes under specific user ids
