@@ -1,7 +1,7 @@
 # docker-entrypoint-multiproc
-##A nicely featured shellscript, battle-tested for launching multiple processes within a single docker container.
+## A nicely featured shellscript, battle-tested for launching multiple processes within a single docker container.
 
-#It allows you to:
+# It allows you to:
 
 - enforce and control the use of mandatory environment variables
 
