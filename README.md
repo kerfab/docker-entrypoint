@@ -29,5 +29,6 @@ The script contains internal detailed documentation explaining all the steps for
 
 ### TODO (if you want to contribute):
 
+- conditional pre-start, entrypoint and post-start pipelines rather than sleep based executions
 - a support for executing specific processes under specific user ids
 - a rewrite of the file replacement feature which works but could be more elegant
