@@ -9,7 +9,7 @@
 
 - move files from a location to another for pre-start purposes
 
-- build template configuration files that will be rewritten pre-start with the content of your environment variables
+- build template configuration files that will be rewritten pre-start with the content of your environment variables (requires a writeable /tmp in your container)
 
 - launch an unlimited number of processes, with optional sleep policy before starting specific processes
 
@@ -31,4 +31,4 @@ The script contains internal detailed documentation explaining all the steps for
 
 - conditional pre-start, entrypoint and post-start pipelines rather than sleep based executions
 - a support for executing specific processes under specific user ids
-- a rewrite of the file replacement feature which works but could be more elegant
+- a rewrite of the file replacement feature which works but could be more elegant and could avoid using /tmp
