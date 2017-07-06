@@ -13,7 +13,7 @@
 
 - launch an unlimited number of processes, with optional sleep policy before starting specific processes
 
-- implement flexible Stop conditions on crashes or processes exits: kill all the other processes (gracefully or not), restart the crashed process, ignore, etc.
+- implement flexible Stop conditions on crashes or processes exits: kill all the other processes (gracefully or not), restart the crashed process, ignore, execute custom command, etc.
 
 - execute pre-start and post-start commands for additional setup processes with optional sleep policy again
 
