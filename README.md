@@ -1,5 +1,5 @@
 # docker-entrypoint-multiproc
-## A nicely featured shellscript, battle-tested for launching multiple processes within a single docker container.
+## A nicely featured entrypoint battle-tested shellscript, for launching multiple processes within a single docker container.
 
 # It allows you to:
 
@@ -22,5 +22,3 @@
 - have a permanent routine which allows you to flush an unlimited number files on stdout - warning: flushed files are truncated (useful for lazy real time log extraction on stdout)
 
 - have a RESET feature, allowing you to execute specific set of commands only when you define a specific environment variable
-
-
