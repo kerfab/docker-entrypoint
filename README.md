@@ -17,7 +17,7 @@
 
 - execute pre-start and post-start commands for additional setup processes with optional sleep policy again
 
-- implement a global stop policy, to gracefully properly external container termination (docker stop)
+- implement a global stop policy, to gracefully handle external container termination (docker stop)
 
 - have a permanent routine which allows you to flush an unlimited number files on stdout - warning: flushed files are truncated (useful for lazy real time log extraction on stdout rather than trying to change application/servers configs to print on stdout)
 
