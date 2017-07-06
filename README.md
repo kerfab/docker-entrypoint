@@ -1,5 +1,5 @@
 # docker-entrypoint-multiproc
-## A nicely featured entrypoint shell script for Docker, for launching multiple processes within a single docker container. Production ready & battle-tested.
+## A nicely featured entrypoint shell script for Docker, for launching multiple processes within a single docker container. Production-ready & battle-tested.
 
 ### It allows you to:
 
