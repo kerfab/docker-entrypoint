@@ -23,4 +23,6 @@
 
 - have a RESET feature, allowing you to execute specific set of commands only when you define a specific environment variable
 
+- handles arguments on `docker run` so that you can change the entrypoint at any time (eg: to start a shell)
+
 The script contains internal detailed documentation explaining all the steps for exploiting the features.
