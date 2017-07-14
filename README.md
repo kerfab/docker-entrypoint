@@ -21,7 +21,7 @@
 
 - flush an unlimited number files on stdout - Useful for lazy real time log extraction on stdout rather than trying to change application/servers configs to print on stdout. Warning: flushed files are truncated 
 
-- have a RESET feature, allowing you to execute specific set of commands only when you define a specific environment variable
+- have a RESET feature, allowing you to execute specific set of commands only when you define RESET_CONTAINER in environment
 
 - handles arguments on `docker run` so that you can start any other entrypoint at any time (eg: to start a shell)
 
