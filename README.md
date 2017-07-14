@@ -1,5 +1,5 @@
 # docker-entrypoint
-## Production-ready enterprise-level entrypoint shell script for Docker, for launching one or more processes within a single docker container.
+## Production-ready entrypoint shell script for Docker, for launching one or more processes within a single docker container.
 
 ### It allows you to:
 
