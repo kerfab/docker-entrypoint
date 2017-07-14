@@ -25,7 +25,7 @@
 
 - handles arguments on `docker run` so that you can start any other entrypoint at any time (eg: to start a shell)
 
-The script contains internal detailed documentation explaining all the steps for exploiting the features.
+- internal detailed documentation explaining all the steps for exploiting the features
 
 ### TODO (if you want to contribute):
 
