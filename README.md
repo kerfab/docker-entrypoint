@@ -23,7 +23,7 @@
 
 - have a RESET feature, allowing you to execute specific set of commands only when you define `$RESET_CONTAINER` in environment
 
-- handles arguments on `docker run` so that you can start any other entrypoint at any time (eg: to start a shell) and pass it parameters from the command line
+- handles arguments on `docker run` so that you can override any other entrypoint at any time (eg: to start a shell) and pass it parameters from the command line. 
 
 - internal detailed documentation explaining all the steps for exploiting the features
 
